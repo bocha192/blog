@@ -26,7 +26,7 @@ SECRET_KEY = 'u)_hkp&4!zu*^@95#)odqd2%ru%=p#8wiznbgpm1qzu8wh7!bh'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'bocha192.pythonanywhere.com']
-
+LOGIN_REDIRECT_URL = '/'
 
 # Application definition
 
